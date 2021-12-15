@@ -1,3 +1,6 @@
-
-Hola!
-Hola desde Vim
+Vim says 
+Hola
+Hello 
+Olá 
+Nihao
+Salut 

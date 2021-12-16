@@ -1,8 +1,3 @@
 Vim says 
-Hola
-Hello 
-Olá 
-Nihao
-Salut 
-
+Hola, hello, olá, nihao, salut 
 Mr Worldwide 
